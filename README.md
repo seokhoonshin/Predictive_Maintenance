@@ -1,5 +1,5 @@
 # Predictive_Maintenance
-BA476_Final_Project
+**BA476_Final_Project**
 
 This project focuses on implementing predictive maintenance strategies using machine learning to prevent failures and optimize machinery operations.
 
